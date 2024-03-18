@@ -1,7 +1,6 @@
 ## whoami 
 
-#### Senior Cloud Development Engineer who's currently focused in Cloud, DevOps and CI/CD domains. 
-#### Formerly working as an IT Support Engineer (Prod Operations/L3), with 9+ years of experience on multinational companies around the world.
+#### I love tech and I love people :)
 
 ---
 
@@ -9,4 +8,4 @@
 
 ---
 
-### DISCLAIMER: This is a playground/experimentation only repo. Use caution!
+### SPOILER ALERT: You will be disappointed with this github :)
